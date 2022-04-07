@@ -5,10 +5,10 @@ This is meant for minecraft bedrock (windows 10 edition, play station, xbox, mob
 
 The data comes in 4 different formats:
 --------------------------------------------------------------------------------------------------------------------------------
-default.json: ........................... `<item name seperated by spaces>`: give @s `<item>` 1 `<data>`
+default.json: ........................... `<item name seperated by spaces>: give @s <item> 1 <data>`
   
-default_with_slash.json: ................ `<item name seperated by spaces>`: /give @s `<item>` 1 `<data>`
+default_with_slash.json: ................ `<item name seperated by spaces>: /give @s <item> 1 <data>`
   
-underscore.json: ........................ `<item name seperated by underscores>`: give @s `<item>` 1 `<data>`
+underscore.json: ........................ `<item name seperated by underscores>: give @s <item> 1 <data>`
   
-underscore_with_slash.json: ............. `<item name seperated by underscores>`: /give @s `<item>` 1 `<data>`
+underscore_with_slash.json: ............. `<item name seperated by underscores>: /give @s <item> 1 <data>`
