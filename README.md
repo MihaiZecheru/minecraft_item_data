@@ -1,7 +1,7 @@
 # minecraft_item_data
 Every single item in minecraft, in json format,, which follows this syntax: `<item name>: give @s <item> 1 <data>`
 
-This is meant for minecraft bedrock (windows 10 edition, play station, xbox, mobile) but it might work on java as well.
+This is meant for minecraft bedrock (windows 10 edition, play station, xbox, mobile/pocket edition) but it might work on java as well.
 
 The data comes in 5 different formats:
 --------------------------------------------------------------------------------------------------------------------------------
