@@ -13,4 +13,4 @@ underscore.json: ........................ `<item name seperated by underscores>:
   
 underscore_with_slash.json: ............. `<item name seperated by underscores>: /give @s <item> 1 <data>`
 
-pretty.json: ............................ `<item name seperated by underscores, the effect names and such have been given some aliases and renamed to fix odd formatting>: give @s <item> 1 <data>
+pretty.json: ............................ `<item name seperated by underscores, the effect names and such have been given some aliases and renamed to fix odd formatting>: give @s <item> 1 <data>`
